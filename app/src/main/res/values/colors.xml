@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="otro">#A569BD</color>
+
+    <color name="colorButtonNormal">#007bff</color>
+    <color name="colorButtonPressed">#0056b3</color>
+
+    <color name="verdePrim" >#CBDDB8</color>
+    <color name="verdeSec" >#88A26E</color>
+    <color name="verde" >#75B583</color>
+    <color name="verdeObscuro" >#32613C</color>
+
+</resources>

@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-mergeDebugResources-45:\\layout\\custom_toast_error.xml",
+        "source": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-main-48:\\layout\\custom_toast_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-mergeDebugResources-45:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-main-48:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-mergeDebugResources-45:\\layout\\fragment_add.xml",
+        "source": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-main-48:\\layout\\fragment_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-mergeDebugResources-45:\\layout\\fragment_detalles_producto.xml",
+        "source": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-main-48:\\layout\\fragment_detalles_producto.xml"
+    },
+    {
+        "merged": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-mergeDebugResources-45:\\layout\\fragment_detalles_producto2.xml",
+        "source": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-main-48:\\layout\\fragment_detalles_producto2.xml"
+    },
+    {
+        "merged": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-mergeDebugResources-45:\\layout\\fragment_add_one_client.xml",
+        "source": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-main-48:\\layout\\fragment_add_one_client.xml"
+    },
+    {
+        "merged": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-mergeDebugResources-45:\\layout\\custom_spinner_item.xml",
+        "source": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-main-48:\\layout\\custom_spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-mergeDebugResources-45:\\layout\\fragment_detalle_documento.xml",
+        "source": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-main-48:\\layout\\fragment_detalle_documento.xml"
+    },
+    {
+        "merged": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-mergeDebugResources-45:\\layout\\list_item_productos.xml",
+        "source": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-main-48:\\layout\\list_item_productos.xml"
+    },
+    {
+        "merged": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-mergeDebugResources-45:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-main-48:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-mergeDebugResources-45:\\layout\\dialog_message.xml",
+        "source": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-main-48:\\layout\\dialog_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-mergeDebugResources-45:\\layout\\bottomsheetlayoutcar.xml",
+        "source": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-main-48:\\layout\\bottomsheetlayoutcar.xml"
+    },
+    {
+        "merged": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-mergeDebugResources-45:\\layout\\fragment_search.xml",
+        "source": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-main-48:\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-mergeDebugResources-45:\\layout\\fragment_documentos.xml",
+        "source": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-main-48:\\layout\\fragment_documentos.xml"
+    },
+    {
+        "merged": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-mergeDebugResources-45:\\layout\\list_item_cliente.xml",
+        "source": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-main-48:\\layout\\list_item_cliente.xml"
+    },
+    {
+        "merged": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-mergeDebugResources-45:\\layout\\list_item_productos_docs.xml",
+        "source": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-main-48:\\layout\\list_item_productos_docs.xml"
+    },
+    {
+        "merged": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-mergeDebugResources-45:\\layout\\fragment_car.xml",
+        "source": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-main-48:\\layout\\fragment_car.xml"
+    },
+    {
+        "merged": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-mergeDebugResources-45:\\layout\\dialog_error.xml",
+        "source": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-main-48:\\layout\\dialog_error.xml"
+    },
+    {
+        "merged": "com.example.agrotradehub.app-mergeDebugResources-45:/layout/fragment_detalles_producto2.xml",
+        "source": "com.example.agrotradehub.app-main-48:/layout/fragment_detalles_producto2.xml"
+    },
+    {
+        "merged": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-mergeDebugResources-45:\\layout\\activity_firma_view.xml",
+        "source": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-main-48:\\layout\\activity_firma_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-mergeDebugResources-45:\\layout\\activity_supervisor.xml",
+        "source": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-main-48:\\layout\\activity_supervisor.xml"
+    },
+    {
+        "merged": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-mergeDebugResources-45:\\layout\\activity_almacen.xml",
+        "source": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-main-48:\\layout\\activity_almacen.xml"
+    },
+    {
+        "merged": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-mergeDebugResources-45:\\layout\\fragment_agentes.xml",
+        "source": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-main-48:\\layout\\fragment_agentes.xml"
+    },
+    {
+        "merged": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-mergeDebugResources-45:\\layout\\fragment_inicio.xml",
+        "source": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-main-48:\\layout\\fragment_inicio.xml"
+    },
+    {
+        "merged": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-mergeDebugResources-45:\\layout\\list_item_productos_car.xml",
+        "source": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-main-48:\\layout\\list_item_productos_car.xml"
+    },
+    {
+        "merged": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-mergeDebugResources-45:\\layout\\bottomsheetlayout.xml",
+        "source": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-main-48:\\layout\\bottomsheetlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-mergeDebugResources-45:\\layout\\custom_toast_ok.xml",
+        "source": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-main-48:\\layout\\custom_toast_ok.xml"
+    },
+    {
+        "merged": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-mergeDebugResources-45:\\layout\\list_item_productos_docs_client.xml",
+        "source": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-main-48:\\layout\\list_item_productos_docs_client.xml"
+    },
+    {
+        "merged": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-mergeDebugResources-45:\\layout\\topsettings.xml",
+        "source": "C:\\Users\\tejon\\.gradle\\daemon\\8.4\\com.example.agrotradehub.app-main-48:\\layout\\topsettings.xml"
+    }
+]

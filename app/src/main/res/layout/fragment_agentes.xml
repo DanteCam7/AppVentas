@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".adminFragments.agentesFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ProgressBar
+        android:id="@+id/cargadocsSuper"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"/>
+    <TextView
+        android:id="@+id/notDocumentSup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:visibility="gone"
+        android:text="No hay coincidencias" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:layout_gravity="center_horizontal"
+        android:text="Documentos x agente" />
+
+    <AutoCompleteTextView
+        android:id="@+id/agentesDoc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:hint="Todos"/>
+
+    <LinearLayout
+        android:layout_marginTop="75dp"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp" >
+
+        <TextView
+            android:textAlignment="center"
+            android:id="@+id/fechaTerminoSup"
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:textSize="16sp"
+            style="?android:spinnerStyle"
+            android:text="Fecha termino"/>
+
+        <TextView
+            android:textAlignment="center"
+            android:id="@+id/fechaInicioSup"
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:layout_marginEnd="5dp"
+            android:textSize="16sp"
+            android:layout_height="wrap_content"
+            style="?android:spinnerStyle"
+            android:text="Fecha inicio"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="105dp"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp" >
+
+        <Spinner
+            android:id="@+id/clientesDoc"
+            android:layout_weight="4"
+            android:spinnerMode="dialog"
+            android:visibility="gone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <Spinner
+            android:id="@+id/tipoDoc"
+            android:layout_weight="0.5"
+            android:spinnerMode="dialog"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/listDocsSuper"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="145dp"
+        tools:listitem="@layout/list_item_productos_docs_client" />
+
+</FrameLayout>

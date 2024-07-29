@@ -1,0 +1,6 @@
+com.example.agrotradehub.test.app-jetified-annotation-experimental-1.3.0-0 C:\Users\tejon\.gradle\caches\transforms-3\d29eeb54cf7ceec8408d6954dc9a4fb6\transformed\jetified-annotation-experimental-1.3.0\res
+com.example.agrotradehub.test.app-jetified-core-1.5.0-1 C:\Users\tejon\.gradle\caches\transforms-3\f615d4d858128bd346deba6c93897753\transformed\jetified-core-1.5.0\res
+com.example.agrotradehub.test.app-androidTest-2 C:\Users\tejon\AndroidStudioProjects\AgroTradeHub_android\app\build\generated\res\resValues\androidTest\debug
+com.example.agrotradehub.test.app-mergeDebugAndroidTestResources-3 C:\Users\tejon\AndroidStudioProjects\AgroTradeHub_android\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.agrotradehub.test.app-mergeDebugAndroidTestResources-4 C:\Users\tejon\AndroidStudioProjects\AgroTradeHub_android\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.agrotradehub.test.app-debugAndroidTest-5 C:\Users\tejon\AndroidStudioProjects\AgroTradeHub_android\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
